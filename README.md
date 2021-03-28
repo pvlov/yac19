@@ -60,5 +60,4 @@ You can get an updated version of this dataset with `rki_fetch_all()`.
 
 For more information see the respective function/data documentation.
 
----# yac19
-# yac19
+---
